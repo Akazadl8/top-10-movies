@@ -1,0 +1,8 @@
+Bootstrap-Flask>=2.2.0
+Flask>=3.0
+Flask-SQLAlchemy>=3.1.1
+Flask-WTF>=1.2.1
+requests>=2.31
+SQLAlchemy>=2.0.25
+WTForms>=3.1
+Werkzeug>=3.0
